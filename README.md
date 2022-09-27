@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-wordpress. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 # WordPress plugin
 
 The WordPress plugin allows users to publish documents as articles on their WordPress websites directly from the document editor. The Save as Draft option allows publishing the created content later. In this case, the article will be available in the Drafts tab of the Blog Posts section on your WordPress website. Images, autoshapes, and tables cannot be transferred to WordPress due to inner specifics.
